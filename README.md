@@ -11,8 +11,5 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 - **statquiz** – Interactive stats quiz generator for R  
 - **researchkit** – Reproducible research boilerplate and automation tools  
 
-## 🧠 Interests
-Cognitive aging, behavioral health, lifestyle medicine, reproducible science, NLP, and causal inference.
-
 ## 🌐 Links
 [Personal Website](https://chaycereed.com) • [LinkedIn](https://www.linkedin.com/in/chaycereed) • [GitHub Repos](https://github.com/chaycereed?tab=repositories)

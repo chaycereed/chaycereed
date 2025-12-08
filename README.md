@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Chayce
 
-<!--
-**chaycereed/chaycereed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer • Health Data Science • Behavioral Research Tools**
 
-Here are some ideas to get you started:
+I'm building open-source tools for biomedical research, reproducible workflows, and data-driven insights into cognition, lifestyle medicine, and public health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+- **Research Atlas** – NLP + knowledge graph exploration for scientific literature  
+- **metaScholar** – Python CLI for automated literature retrieval and reporting  
+- **nhanesqc** – R package for NHANES data cleaning and QC  
+- **statquiz** – Interactive stats quiz generator for R  
+- **researchkit** – Reproducible research boilerplate and automation tools  
+
+## 🧠 Interests
+Cognitive aging, behavioral health, lifestyle medicine, reproducible science, NLP, and causal inference.
+
+## 🌐 Links
+[Personal Website](https://chaycereed.com) • [LinkedIn](https://www.linkedin.com/in/chaycereed) • [GitHub Repos](https://github.com/chaycereed?tab=repositories)

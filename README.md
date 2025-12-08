@@ -6,7 +6,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 ## 🔧 Projects
 
 <details>
-  <summary>📚 <strong><a href="https://github.com/chaycereed/research-atlas">Research Atlas</a></strong> – NLP + knowledge-graph explorer</summary>
+  <summary><strong><a href="https://github.com/chaycereed/research-atlas">Research Atlas</a></strong> – NLP + knowledge-graph explorer</summary>
 
   <br>
     
@@ -18,7 +18,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 </details>
 
 <details>
-  <summary>🧪 <strong><a href="https://github.com/chaycereed/researchkit">researchkit</a></strong> – Reproducible research boilerplate</summary>
+  <summary><strong><a href="https://github.com/chaycereed/researchkit">researchkit</a></strong> – Reproducible research boilerplate</summary>
 
   <br>
 
@@ -30,7 +30,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 </details>
 
 <details>
-  <summary>🔎 <strong><a href="https://github.com/chaycereed/metascholar">metaScholar</a></strong> – Automated literature-search CLI</summary>
+  <summary><strong><a href="https://github.com/chaycereed/metascholar">metaScholar</a></strong> – Automated literature-search CLI</summary>
 
   <br>
 
@@ -42,7 +42,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 </details>
 
 <details>
-  <summary>📊 <strong><a href="https://github.com/chaycereed/nhanesqc">nhanesqc</a></strong> – NHANES cleaning & QC</summary>
+  <summary><strong><a href="https://github.com/chaycereed/nhanesqc">nhanesqc</a></strong> – NHANES cleaning & QC</summary>
 
   <br>
 
@@ -54,7 +54,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 </details>
 
 <details>
-  <summary>🧮 <strong><a href="https://github.com/chaycereed/statquiz">statquiz</a></strong> – Interactive stats quiz generator</summary>
+  <summary><strong><a href="https://github.com/chaycereed/statquiz">statquiz</a></strong> – Interactive stats quiz generator</summary>
 
   <br>
 

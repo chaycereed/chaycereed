@@ -30,7 +30,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 </details>
 
 <details>
-  <summary><strong><a href="https://github.com/chaycereed/metascholar">metaScholar</a></strong> – Automated literature-search CLI</summary>
+  <summary><strong><a href="https://github.com/chaycereed/metascholar">metascholar</a></strong> – Automated literature-search CLI</summary>
 
   <br>
 

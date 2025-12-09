@@ -3,7 +3,7 @@
 **Software Engineer • Health Data Science • Behavioral Research Tools**
 
 I'm building open-source tools for biomedical research, reproducible workflows, and data-driven insights into cognition, lifestyle medicine, and public health.
-## 🔧 Projects
+## Projects
 
 <details>
   <summary><strong><a href="https://github.com/chaycereed/research-atlas">Research Atlas</a></strong> – NLP + knowledge-graph explorer</summary>
@@ -65,5 +65,5 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 
 </details>
 
-## 🌐 Links
+## Links
 [Personal Website](https://chaycereed.com) • [LinkedIn](https://www.linkedin.com/in/chaycereed) • [GitHub Repos](https://github.com/chaycereed?tab=repositories)

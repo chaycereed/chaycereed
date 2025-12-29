@@ -6,7 +6,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 ## Projects
 
 <details>
-  <summary><strong><a href="https://github.com/chaycereed/research-atlas">researchatlas.ai</a></strong> – NLP + knowledge-graph explorer</summary>
+  <summary><strong><a href="https://researchatlas.ai">researchatlas.ai</a></strong> – NLP + knowledge-graph explorer</summary>
 
   <br>
     

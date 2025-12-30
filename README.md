@@ -6,7 +6,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 ## Projects
 
 <details>
-  <summary><strong><a href="https://annualhealthreview.com">annualhealthreview.com</a></strong> – Report on U.S. Population Health Metrics</summary>
+  <summary><strong><a href="https://annualhealthreview.com">annualhealthreview.com</a></strong> – Report on U.S. Population Health Metrics (In Progress)</summary>
 
   <br>
     

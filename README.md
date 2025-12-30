@@ -6,6 +6,18 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 ## Projects
 
 <details>
+  <summary><strong><a href="https://annualhealthreview.com">annualhealthreview.com</a></strong> – Report on U.S. Population Health Metrics</summary>
+
+  <br>
+    
+      Language: Python, TypeScript  
+      Stack: dplyr, haven, Next.js, Tailwind, plotly.js
+      Purpose: A technical report on U.S. population health metrics (mental, physical, and lifestyle) derived from NHANES survey data and presented with visualizations.
+      Notes: Full-stack health data visualization project.
+  
+</details>
+
+<details>
   <summary><strong><a href="https://researchatlas.ai">researchatlas.ai</a></strong> – NLP + knowledge-graph explorer</summary>
 
   <br>

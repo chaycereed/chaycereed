@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chayce
 
-**Software Engineer • Health Data Science • Behavioral Research Tools**
+**Software Engineer • Health Data Science
 
 I'm building open-source tools for biomedical research, reproducible workflows, and data-driven insights into cognition, lifestyle medicine, and public health.
 ## Projects

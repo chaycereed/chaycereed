@@ -54,7 +54,7 @@ I'm building open-source tools for biomedical research, reproducible workflows, 
 </details>
 
 <details>
-  <summary><strong><a href="https://github.com/chaycereed/nhanesqc">nhanesqc</a></strong> – NHANES cleaning & QC</summary>
+  <summary><strong><a href="https://github.com/chaycereed/nhanesqc">nhanesqc</a></strong> – NHANES cleaning & QC (In Progress)</summary>
 
   <br>
 

@@ -2,7 +2,7 @@
 
 **Software Engineer • Health Data Science**
 
-I'm building open-source tools for biomedical research, reproducible workflows, and data-driven insights into cognition, lifestyle medicine, and public health.
+I'm building open-source tools for computational causal inference, reproducible research, and data-driven insights into health policy and population health systems.
 ## Projects
 
 <details>

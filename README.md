@@ -30,7 +30,7 @@ I'm building open-source tools for computational causal inference, reproducible 
 </details>
 
 <details>
-  <summary><strong><a href="https://github.com/chaycereed/researchkit">researchkit</a></strong> – Reproducible research boilerplate</summary>
+  <summary><strong><a href="https://github.com/chaycereed/researchkit">researchkit</a></strong> – Reproducible research generator</summary>
 
   <br>
 
@@ -66,7 +66,7 @@ I'm building open-source tools for computational causal inference, reproducible 
 </details>
 
 <details>
-  <summary><strong><a href="https://github.com/chaycereed/statquiz">statquiz</a></strong> – Interactive stats quiz generator</summary>
+  <summary><strong><a href="https://github.com/chaycereed/statquiz">statquiz</a></strong> – Interactive stats quiz</summary>
 
   <br>
 

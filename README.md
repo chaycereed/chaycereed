@@ -54,7 +54,7 @@ I'm building open-source tools for computational causal inference, reproducible 
 </details>
 
 <details>
-  <summary><strong><a href="https://github.com/chaycereed/nhanesqc">nhanesqc</a></strong> – NHANES cleaning & QC (In Progress)</summary>
+  <summary><strong><a href="https://github.com/chaycereed/nhanesqc">nhanesqc</a></strong> – NHANES cleaning & QC</summary>
 
   <br>
 

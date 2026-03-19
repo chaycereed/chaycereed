@@ -18,6 +18,17 @@ I'm building open-source tools for computational causal inference, reproducible 
 </details>
 
 <details>
+  <summary><strong><a href="https://medicaid-map.com">medicaid-map.com</a></strong> – Effect of ACA Medicaid Expansion on Insurance Coverage Among Low-Income Adults</summary>
+  <br>
+
+      Language: R, TypeScript  
+      Stack: tidyverse, fixest, gt, personograph, Quarto, Next.js, Tailwind, D3.js
+      Purpose: A research visualization project estimating the causal effect of state-level Medicaid expansion on insurance coverage rates among low-income adults (≤138% FPL), using ACS PUMS microdata (2010–2023) and a difference-in-differences design.
+      Notes: Outputs include a Quarto analysis document, research poster, and an interactive Next.js/D3 website.
+
+</details>
+
+<details>
   <summary><strong><a href="https://researchatlas.ai">researchatlas.ai</a></strong> – NLP + knowledge-graph explorer</summary>
 
   <br>

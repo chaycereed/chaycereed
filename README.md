@@ -1,92 +1,205 @@
-# 👋 Hi, I'm Chayce
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,100:161b22&height=120&section=header&text=Chayce%20Reed&fontColor=e6edf3&fontSize=42&fontAlignY=65&fontFamily=Georgia&animation=fadeIn" width="100%"/>
+</p>
 
-**Software Engineer • Health Data Science**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2500&pause=99999&color=3D444D&background=0D111700&center=true&vCenter=true&width=700&height=24&lines=MS+HEALTH+DATA+SCIENCE+-+DARTMOUTH+COLLEGE+%C2%B7+GRA++-+COMPUTATIONAL+CAUSAL+INFERENCE" alt="role"/>
+</p>
 
-I'm building open-source tools for computational causal inference, reproducible research, and data-driven insights into health policy and population health systems.
-## Projects
+> [!TIP]
+> ```yaml
+> name:       Chayce Reed
+> location:   Boston, MA
+> background: Systems Engineer, Software Engineer, Health Data Science
+> role:       Graduate Research Assistant, Computational Causal Inference
+> education:  UMass Amherst, Dartmouth College
+> experience: BMS, Moderna, Oncorus
+> consulting: Datageek Designs LLC
+> focus:      Causal Inference, Causal Machine Learning, Population Health
+> website:    chaycereed.com
+> ```
+> [![Website](https://img.shields.io/badge/chaycereed.com-0d1117?style=flat-square&logo=safari&logoColor=6e7681&labelColor=161b22&color=21262d)](https://chaycereed.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=6e7681&labelColor=161b22&color=21262d)](https://www.linkedin.com/in/chaycereed)&nbsp;
 
-<details>
-  <summary><strong><a href="https://annualhealthreview.com">annualhealthreview.com</a></strong> – Report on U.S. Population Health Metrics (In Progress)</summary>
+---
 
-  <br>
-    
-      Language: Python, TypeScript  
-      Stack: dplyr, haven, Next.js, Tailwind, plotly.js
-      Purpose: A technical report on U.S. population health metrics (mental, physical, and lifestyle) derived from NHANES survey data and presented with visualizations.
-      Notes: Full-stack health data visualization project.
-  
-</details>
+### Stack
 
-<details>
-  <summary><strong><a href="https://medicaid-map.com">medicaid-map.com</a></strong> – Effect of ACA Medicaid Expansion on Insurance Coverage Among Low-Income Adults</summary>
-  <br>
+> [!NOTE]
+> | Languages | Tools | Learning |
+> |:---:|:---:|:---:|
+> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" height="36" alt="R"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Scikit-learn"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="36" height="36" alt="Julia"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/> |
 
-      Language: R, TypeScript  
-      Stack: tidyverse, fixest, gt, personograph, Quarto, Next.js, Tailwind, D3.js
-      Purpose: A research visualization project estimating the causal effect of state-level Medicaid expansion on insurance coverage rates among low-income adults (≤138% FPL), using ACS PUMS microdata (2010–2023) and a difference-in-differences design.
-      Notes: Outputs include a Quarto analysis document, research poster, and an interactive Next.js/D3 website.
+---
 
-</details>
+### Stats
 
-<details>
-  <summary><strong><a href="https://researchatlas.ai">researchatlas.ai</a></strong> – NLP + knowledge-graph explorer</summary>
+> [!TIP]
+> <div align="center">
+> <img width="96%" src="https://streak-stats.demolab.com?user=chaycereed&hide_border=true&background=010409&stroke=21262d&ring=484f58&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=6e7681&currStreakLabel=6e7681&sideLabels=3d444d&dates=3d444d" alt="Streak"/>
+> <br/><br/>
+> <img width="96%" src="https://raw.githubusercontent.com/chaycereed/chaycereed/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+> </div>
 
-  <br>
-    
-      Language: Python, TypeScript  
-      Stack: FastAPI, Next.js, Tailwind, react-force-graph  
-      Purpose: Explore scientific literature using NLP, embeddings, and interactive graphs.  
-      Notes: Full-stack project integrating Semantic Scholar API and custom NLP utilities.
-  
-</details>
+---
 
-<details>
-  <summary><strong><a href="https://github.com/chaycereed/researchkit">researchkit</a></strong> – Reproducible research generator</summary>
+### Project Previews
 
-  <br>
+> [!NOTE]
+> Click any preview to visit the project.
+> <div align="center">
+>
+> | | | |
+> |:---:|:---:|:---:|
+> | [![dag-studio](dag-studio.png)](https://dag-studio.com) | [![causal-workbench](causal-methods.png)](https://causal-methods.com) | [![researchatlas.ai](research-atlas.png)](https://researchatlas.ai) |
+>
+> | | |
+> |:---:|:---:|
+> | [![annualhealthreview.com](annual-health-review.png)](https://annualhealthreview.com) | [![medicaid-map.com](medicaid-map.png)](https://medicaid-map.com) |
+>
+> </div>
 
-      Language: Python  
-      Purpose: Spin up clean, standardized project scaffolds for reproducible analysis.  
-      Tech: CLI utilities, templates, automation  
-      Notes: Helps unify workflow style across projects.
+---
 
-</details>
+### Projects
+> [!TIP]
+> <details>
+> <summary><b>medicaid-map.com</b> &nbsp;—&nbsp; <i>Interactive Visualization of Medicaid Expansion Effects</i> &nbsp;<code>web</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Design** | Sun-Abraham DiD estimator, ACS PUMS 2010–2023, state-level treatment variation |
+> | **Outputs** | Research Poster, Interactive Next.js / D3.js website |
+> | **Link** | [medicaid-map.com](https://medicaid-map.com) |
+> | **Stack** | `R` `fixest` `TypeScript` `D3.js` |
+> | **Status** | Complete |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>causal-methods.com</b> &nbsp;—&nbsp; <i>A Code-First Reference For Causal Inference and Causal ML Methods</i> &nbsp;<code>web</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Coverage** | DiD, IV, TMLE, DML, AIPW, Synthetic Control, Causal Forests |
+> | **Languges** | `R` `Python` |
+> | **Status** | Complete |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>annualhealthreview.com</b> &nbsp;—&nbsp; <i>U.S. Population Health Metrics · NHANES</i> &nbsp;<code>web</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Data** | NHANES — Mental, Physical, and Lifestyle Health Metrics |
+> | **Link** | [annualhealthreview.com](https://annualhealthreview.com) |
+> | **Stack** | `Python` `Next.js` `plotly.js` `dplyr` `haven` |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>researchatlas.ai</b> &nbsp;—&nbsp; <i>NLP + Knowledge-Graph Literature Explorer</i> &nbsp;<code>web</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Tech** | Semantic Scholar API, NLP embeddings, Interactive Force-Directed Graphs |
+> | **Link** | [researchatlas.ai](https://researchatlas.ai) |
+> | **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>dag-studio</b> &nbsp;—&nbsp; <i>Interactive DAG Construction and Analysis</i> &nbsp;<code>R</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Features** | Identification Analysis · Adjustment Sets |
+> | **Link** | [dag-studio.com](https://dag-studio.com) |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>researchkit</b> &nbsp;—&nbsp; <i>Reproducible Research Project Scaffolding</i> &nbsp;<code>cli</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Purpose** | Standardized Templates and Automation for Reproducible Analysis Projects |
+> | **Stack** | `Python` |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>metascholar</b> &nbsp;—&nbsp; <i>Automated Literature Retrieval and Reporting</i> &nbsp;<code>cli</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Purpose** | Automated Retrieval, Metadata Extraction, Structured Reports via Semantic Scholar |
+> | **Stack** | `Python` |
+> 
+> </details>
 
-<details>
-  <summary><strong><a href="https://github.com/chaycereed/metascholar">metascholar</a></strong> – Automated literature-search CLI</summary>
+---
 
-  <br>
+### R Packages
+> [!NOTE]
+> <details>
+> <summary><b>wmap</b> &nbsp;—&nbsp; <i>transportability · generalizability</i> &nbsp;<code>R</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **API** | `balacning.weights()` · `causal.estimate()` |
+> | **Status** | In Progress |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>translate</b> &nbsp;—&nbsp; <i>causal transport across populations</i> &nbsp;<code>R</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **API** | `translate()` · `translate_weights()` · `translate_estimate()` |
+> | **Status** | In Progress |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>nhanesqc</b> &nbsp;—&nbsp; <i>NHANES preprocessing pipeline</i> &nbsp;<code>R</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Features** | Recoding · missingness · special values · cycle consistency |
+> | **Status** | Complete |
+> 
+> </details>
+> 
+> <details>
+> <summary><b>lotr</b> &nbsp;—&nbsp; <i>Lord of the Rings color palettes for ggplot2</i> &nbsp;<code>R</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Features** | 10 palettes · `scale_color_lotr()` · `scale_fill_lotr()` |
+> | **Status** | Complete |
+> 
+> </details>
 
-      Language: Python  
-      Purpose: Automate literature retrieval, metadata extraction, and report generation.  
-      Tech: Semantic Scholar API, CLI tooling  
-      Notes: Produces structured summaries to accelerate early-stage review.
-  
-</details>
+---
 
-<details>
-  <summary><strong><a href="https://github.com/chaycereed/nhanesqc">nhanesqc</a></strong> – NHANES cleaning & QC</summary>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:010409&height=80&section=footer" width="100%"/>
+</p>
 
-  <br>
-
-      Language: R  
-      Purpose: Standardize NHANES preprocessing, detect issues, and clean variables.  
-      Tech: tidyverse, data.table  
-      Notes: Handles recoding, missingness, special values, and cycle consistency.
-
-</details>
-
-<details>
-  <summary><strong><a href="https://github.com/chaycereed/statquiz">statquiz</a></strong> – Interactive stats quiz</summary>
-
-  <br>
-
-      Language: R  
-      Purpose: Create randomized practice questions for core statistical concepts.  
-      Topics: ANOVA, correlation, regression, probability  
-      Notes: Generates questions + answers for self-testing inside the IDE.
-
-</details>
-
-## Links
-[Personal Website](https://chaycereed.com) • [LinkedIn](https://www.linkedin.com/in/chaycereed) • [GitHub Repos](https://github.com/chaycereed?tab=repositories)
+<p align="center">
+  <sub><code>Boston, MA · chaycereed.com</code></sub>
+</p>

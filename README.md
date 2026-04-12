@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2500&pause=99999&color=3D444D&background=0D111700&center=true&vCenter=true&width=700&height=24&lines=MS+HEALTH+DATA+SCIENCE+-+DARTMOUTH+COLLEGE+%C2%B7+GRA++-+COMPUTATIONAL+CAUSAL+INFERENCE" alt="role"/>
 </p>
 
-> [!TIP]
+> [!NOTE]
 > ```yaml
 > name:       Chayce Reed
 > location:   Boston, MA
@@ -23,20 +23,11 @@
 
 ---
 
-### Stack
-
-> [!NOTE]
-> | Languages | Tools | Learning |
-> |:---:|:---:|:---:|
-> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" height="36" alt="R"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Scikit-learn"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="36" height="36" alt="Julia"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/> |
-
----
-
 ### Stats
 
 > [!TIP]
 > <div align="center">
-> <img width="96%" src="https://streak-stats.demolab.com?user=chaycereed&hide_border=true&background=010409&stroke=21262d&ring=484f58&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=6e7681&currStreakLabel=6e7681&sideLabels=3d444d&dates=3d444d" alt="Streak"/>
+> <img width="96%" src="https://streak-stats.demolab.com?user=chaycereed&hide_border=true&background=010409&stroke=0e4429&ring=26a641&fire=39d353&currStreakNum=39d353&currStreakLabel=006d32&sideNums=39d353&sideLabels=006d32&dates=0e4429" alt="Streak"/>
 > <br/><br/>
 > <img width="96%" src="https://raw.githubusercontent.com/chaycereed/chaycereed/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 > </div>

@@ -55,6 +55,18 @@
 ### Projects
 > [!TIP]
 > <details>
+> <summary><b>annualhealthreview.com</b> &nbsp;—&nbsp; <i>U.S. Population Health Metrics · NHANES</i> &nbsp;<code>web</code></summary>
+> <br>
+> 
+> | | |
+> |---|---|
+> | **Data** | NHANES — Mental, Physical, and Lifestyle Health Metrics |
+> | **Link** | [annualhealthreview.com](https://annualhealthreview.com) |
+> | **Stack** | `Python` `Next.js` `plotly.js` `dplyr` `haven` |
+> 
+> </details>
+>
+> <details>
 > <summary><b>medicaid-map.com</b> &nbsp;—&nbsp; <i>Interactive Visualization of Medicaid Expansion Effects</i> &nbsp;<code>web</code></summary>
 > <br>
 > 
@@ -81,16 +93,16 @@
 > </details>
 > 
 > <details>
-> <summary><b>annualhealthreview.com</b> &nbsp;—&nbsp; <i>U.S. Population Health Metrics · NHANES</i> &nbsp;<code>web</code></summary>
+> <summary><b>dag-studio.com</b> &nbsp;—&nbsp; <i>Interactive DAG Construction and Analysis</i> &nbsp;<code>web</code></summary>
 > <br>
 > 
 > | | |
 > |---|---|
-> | **Data** | NHANES — Mental, Physical, and Lifestyle Health Metrics |
-> | **Link** | [annualhealthreview.com](https://annualhealthreview.com) |
-> | **Stack** | `Python` `Next.js` `plotly.js` `dplyr` `haven` |
+> | **Features** | Identification Analysis · Adjustment Sets |
+> | **Link** | [dag-studio.com](https://dag-studio.com) |
 > 
 > </details>
+>
 > 
 > <details>
 > <summary><b>researchatlas.ai</b> &nbsp;—&nbsp; <i>NLP + Knowledge-Graph Literature Explorer</i> &nbsp;<code>web</code></summary>
@@ -101,17 +113,6 @@
 > | **Tech** | Semantic Scholar API, NLP embeddings, Interactive Force-Directed Graphs |
 > | **Link** | [researchatlas.ai](https://researchatlas.ai) |
 > | **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
-> 
-> </details>
-> 
-> <details>
-> <summary><b>dag-studio</b> &nbsp;—&nbsp; <i>Interactive DAG Construction and Analysis</i> &nbsp;<code>R</code></summary>
-> <br>
-> 
-> | | |
-> |---|---|
-> | **Features** | Identification Analysis · Adjustment Sets |
-> | **Link** | [dag-studio.com](https://dag-studio.com) |
 > 
 > </details>
 > 

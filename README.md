@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2500&pause=99999&color=3D444D&background=0D111700&center=true&vCenter=true&width=700&height=24&lines=MS+HEALTH+DATA+SCIENCE+-+DARTMOUTH+COLLEGE+%C2%B7+GRA++-+COMPUTATIONAL+CAUSAL+INFERENCE" alt="role"/>
 </p>
 
-<br/>
-
 ```yaml
 name:       Chayce Reed
 location:   Boston, MA
@@ -17,11 +15,6 @@ industry:   BMS · Moderna · Oncorus
 consulting: Datageek Designs LLC
 website:    chaycereed.com
 ```
-
-<p align="center">
-  <a href="https://chaycereed.com"><img src="https://img.shields.io/badge/chaycereed.com-161b22?style=flat-square&logo=safari&logoColor=6e7681&color=21262d"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/chaycereed"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=6e7681&color=21262d"/></a>
-</p>
 
 ---
 

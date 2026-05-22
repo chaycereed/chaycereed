@@ -201,13 +201,3 @@ My work centers on **computational causal inference for population health and he
   <br/><br/>
   <img width="96%" src="https://raw.githubusercontent.com/chaycereed/chaycereed/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:010409&height=80&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <sub><code>Boston, MA · chaycereed.com</code></sub>
-</p>

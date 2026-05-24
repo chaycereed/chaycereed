@@ -59,41 +59,6 @@ My work centers on **computational causal inference for population health and he
 <br/>
 
 <details>
-<summary><b>dag-studio.com</b> &mdash; Interactive DAG Construction and Analysis &nbsp;<code>web</code></summary>
-<br>
-
-| | |
-|---|---|
-| **Features** | Identification analysis · Adjustment sets |
-| **Link** | [dag-studio.com](https://dag-studio.com) |
-
-</details>
-
-<details>
-<summary><b>causal-methods.com</b> &mdash; Code-First Reference for Causal Inference and Causal ML &nbsp;<code>web</code></summary>
-<br>
-
-| | |
-|---|---|
-| **Coverage** | DiD · IV · TMLE · DML · AIPW · Synthetic Control · Causal Forests |
-| **Languages** | `R` `Python` |
-| **Link** | [causal-methods.com](https://causal-methods.com) |
-
-</details>
-
-<details>
-<summary><b>researchatlas.ai</b> &mdash; NLP and Knowledge-Graph Literature Explorer &nbsp;<code>web</code></summary>
-<br>
-
-| | |
-|---|---|
-| **Tech** | Semantic Scholar API · NLP embeddings · Force-directed graphs |
-| **Link** | [researchatlas.ai](https://researchatlas.ai) |
-| **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
-
-</details>
-
-<details>
 <summary><b>annualhealthreview.com</b> &mdash; U.S. Population Health Metrics · NHANES &nbsp;<code>web</code></summary>
 <br>
 
@@ -115,6 +80,41 @@ My work centers on **computational causal inference for population health and he
 | **Outputs** | Research poster · Interactive Next.js / D3.js website |
 | **Link** | [medicaid-map.com](https://medicaid-map.com) |
 | **Stack** | `R` `fixest` `TypeScript` `D3.js` |
+
+</details>
+
+<details>
+<summary><b>causal-methods.com</b> &mdash; Code-First Reference for Causal Inference and Causal ML &nbsp;<code>web</code></summary>
+<br>
+
+| | |
+|---|---|
+| **Coverage** | DiD · IV · TMLE · DML · AIPW · Synthetic Control · Causal Forests |
+| **Languages** | `R` `Python` |
+| **Link** | [causal-methods.com](https://causal-methods.com) |
+
+</details>
+
+<details>
+<summary><b>dag-studio.com</b> &mdash; Interactive DAG Construction and Analysis &nbsp;<code>web</code></summary>
+<br>
+
+| | |
+|---|---|
+| **Features** | Identification analysis · Adjustment sets |
+| **Link** | [dag-studio.com](https://dag-studio.com) |
+
+</details>
+
+<details>
+<summary><b>researchatlas.ai</b> &mdash; NLP and Knowledge-Graph Literature Explorer &nbsp;<code>web</code></summary>
+<br>
+
+| | |
+|---|---|
+| **Tech** | Semantic Scholar API · NLP embeddings · Force-directed graphs |
+| **Link** | [researchatlas.ai](https://researchatlas.ai) |
+| **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
 
 </details>
 

@@ -59,7 +59,7 @@ My work centers on **computational causal inference for population health and he
 <br/>
 
 <details>
-<summary><b>annualhealthreview.com</b> &mdash; U.S. Population Health Metrics · NHANES &nbsp;<code>web</code></summary>
+<summary><b>annualhealthreview.com</b> &mdash; U.S. Population Health Metrics &nbsp;<code>web</code></summary>
 <br>
 
 | | |

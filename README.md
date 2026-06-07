@@ -51,7 +51,7 @@ My work centers on **computational causal inference for population health and he
 
 | | | |
 |:---:|:---:|:---:|
-| [![dag-studio](dag-studio.png)](https://dag-studio.com) | [![causal-workbench](causal-methods.png)](https://causal-methods.com) | [![researchatlas.ai](research-atlas.png)](https://researchatlas.ai) |
+| [![causal-workbench](causal-methods.png)](https://causal-methods.com) | [![dag-studio](dag-studio.png)](https://dag-studio.com) | [![researchatlas.ai](research-atlas.png)](https://researchatlas.ai) |
 | [![annualhealthreview.com](annual-health-review.png)](https://annualhealthreview.com) | [![medicaid-map.com](medicaid-map.png)](https://medicaid-map.com) | |
 
 </div>

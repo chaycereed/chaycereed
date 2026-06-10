@@ -59,31 +59,6 @@ My work centers on **computational causal inference for population health and he
 <br/>
 
 <details>
-<summary><b>annualhealthreview.com</b> &mdash; U.S. Population Health Metrics &nbsp;<code>web</code></summary>
-<br>
-
-| | |
-|---|---|
-| **Data** | NHANES — mental, physical, and lifestyle health metrics |
-| **Link** | [annualhealthreview.com](https://annualhealthreview.com) |
-| **Stack** | `Python` `Next.js` `plotly.js` `dplyr` `haven` |
-
-</details>
-
-<details>
-<summary><b>medicaid-map.com</b> &mdash; Interactive Visualization of Medicaid Expansion Effects &nbsp;<code>web</code></summary>
-<br>
-
-| | |
-|---|---|
-| **Design** | Sun-Abraham DiD · ACS PUMS 2010–2023 · State-level treatment variation |
-| **Outputs** | Research poster · Interactive Next.js / D3.js website |
-| **Link** | [medicaid-map.com](https://medicaid-map.com) |
-| **Stack** | `R` `fixest` `TypeScript` `D3.js` |
-
-</details>
-
-<details>
 <summary><b>causal-methods.com</b> &mdash; Code-First Reference for Causal Inference and Causal ML &nbsp;<code>web</code></summary>
 <br>
 
@@ -115,6 +90,31 @@ My work centers on **computational causal inference for population health and he
 | **Tech** | Semantic Scholar API · NLP embeddings · Force-directed graphs |
 | **Link** | [researchatlas.ai](https://researchatlas.ai) |
 | **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
+
+</details>
+
+<details>
+<summary><b>annualhealthreview.com</b> &mdash; U.S. Population Health Metrics &nbsp;<code>web</code></summary>
+<br>
+
+| | |
+|---|---|
+| **Data** | NHANES — mental, physical, and lifestyle health metrics |
+| **Link** | [annualhealthreview.com](https://annualhealthreview.com) |
+| **Stack** | `Python` `Next.js` `plotly.js` `dplyr` `haven` |
+
+</details>
+
+<details>
+<summary><b>medicaid-map.com</b> &mdash; Interactive Visualization of Medicaid Expansion Effects &nbsp;<code>web</code></summary>
+<br>
+
+| | |
+|---|---|
+| **Design** | Sun-Abraham DiD · ACS PUMS 2010–2023 · State-level treatment variation |
+| **Outputs** | Research poster · Interactive Next.js / D3.js website |
+| **Link** | [medicaid-map.com](https://medicaid-map.com) |
+| **Stack** | `R` `fixest` `TypeScript` `D3.js` |
 
 </details>
 

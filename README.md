@@ -145,6 +145,17 @@ My work centers on **computational causal inference for population health and he
 </details>
 
 <details>
+<summary><b>causalsim</b> &mdash; Causal Estimator Benchmarking under Known Ground Truth &nbsp;<code>R</code></summary>
+<br>
+
+| | |
+|---|---|
+| **API** | `causalsim_dgp()` · `causalsim_draw()` · `causalsim_eval()` · `causalsim_grid()` |
+| **Status** | Complete |
+
+</details>
+
+<details>
 <summary><b>nhanesqc</b> &mdash; NHANES Preprocessing Pipeline &nbsp;<code>R</code></summary>
 <br>
 

@@ -204,9 +204,3 @@ My work centers on **computational causal inference for population health and he
 </details>
 
 ---
-
-### Activity
-
-<div align="center">
-  <img width="96%" src="https://streak-stats.demolab.com?user=chaycereed&hide_border=true&background=010409&stroke=0e4429&ring=26a641&fire=39d353&currStreakNum=39d353&currStreakLabel=006d32&sideNums=39d353&sideLabels=006d32&dates=0e4429" alt="Streak"/>
-</div>

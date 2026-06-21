@@ -202,5 +202,3 @@ My work centers on **computational causal inference for population health and he
 | **Stack** | `Python` |
 
 </details>
-
----

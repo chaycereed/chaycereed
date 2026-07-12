@@ -39,8 +39,7 @@ Computational causal inference for health systems and policy. Building R package
 <p>
   <img src="https://img.shields.io/badge/R-21262d?style=flat-square&logo=r&logoColor=6e7681"/>
   <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=6e7681"/>
-  <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=6e7681"/>
-  <img src="https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=6e7681"/>
+  <img src="https://img.shields.io/badge/SQL-21262d?style=flat-square&logo=postgresql&logoColor=6e7681"/>
 </p>
 
 ---

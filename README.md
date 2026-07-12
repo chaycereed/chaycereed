@@ -20,18 +20,18 @@ website:    chaycereed.com
 
 ### Research
 
-My work centers on **computational causal inference for population health and health systems**. I study how policies, systems, and social environments shape health behaviors and outcomes, using causal ML to uncover mechanisms, evaluate interventions, and inform decision-making.
+Computational causal inference for health systems and policy. Building R packages, Python tools, and methods software.
 
 **Methods**
 
 <p>
   <img src="https://img.shields.io/badge/Difference--in--Differences-21262d?style=flat-square&color=21262d"/>
-  <img src="https://img.shields.io/badge/Causal_ML-21262d?style=flat-square&color=21262d"/>
-  <img src="https://img.shields.io/badge/AIPW_%2F_DML-21262d?style=flat-square&color=21262d"/>
-  <img src="https://img.shields.io/badge/Transportability-21262d?style=flat-square&color=21262d"/>
-  <img src="https://img.shields.io/badge/IV_%2F_RDD-21262d?style=flat-square&color=21262d"/>
-  <img src="https://img.shields.io/badge/Causal_Forests-21262d?style=flat-square&color=21262d"/>
+  <img src="https://img.shields.io/badge/Interrupted_Time_Series-21262d?style=flat-square&color=21262d"/>
   <img src="https://img.shields.io/badge/Synthetic_Control-21262d?style=flat-square&color=21262d"/>
+  <img src="https://img.shields.io/badge/IV_%2F_RDD-21262d?style=flat-square&color=21262d"/>
+  <img src="https://img.shields.io/badge/AIPW_%2F_DML-21262d?style=flat-square&color=21262d"/>
+  <img src="https://img.shields.io/badge/Causal_Forests-21262d?style=flat-square&color=21262d"/>
+  <img src="https://img.shields.io/badge/Transportability-21262d?style=flat-square&color=21262d"/>
 </p>
 
 **Stack**

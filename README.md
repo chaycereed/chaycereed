@@ -20,7 +20,8 @@ website:    chaycereed.com
 
 ### Research
 
-Computational causal inference for health systems and policy. Building R packages, Python tools, and methods software.
+Computational causal inference for health systems, policy, and equity. 
+Building R packages, Python tools, and methods software.
 
 **Methods**
 

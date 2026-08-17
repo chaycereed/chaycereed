@@ -129,7 +129,8 @@ Building R packages, Python tools, and methods software.
 | | |
 |---|---|
 | **API** | `balancing_weights()` · `causal_estimate()` |
-| **Status** | In progress |
+| **CRAN** | [WMAP](https://cran.r-project.org/web/packages/WMAP/index.html) |
+| **Status** | Complete |
 
 </details>
 

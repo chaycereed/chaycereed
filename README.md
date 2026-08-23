@@ -152,6 +152,7 @@ Building R packages, Python tools, and methods software.
 | | |
 |---|---|
 | **API** | `causalsim_dgp()` · `causalsim_draw()` · `causalsim_eval()` · `causalsim_grid()` |
+| **CRAN** | Submitted to CRAN |
 | **Status** | Complete |
 
 </details>

@@ -10,7 +10,7 @@
 name:       Chayce Reed
 location:   Boston, MA
 role:       Graduate Research Assistant · Computational Causal Inference
-education:  UMass Amherst · Dartmouth College (MS Health Data Science)
+education:  UMass Amherst (BS Chemical Engineering) · Dartmouth College (MS Health Data Science)
 industry:   BMS · Moderna · Oncorus
 consulting: Datageek Designs LLC
 website:    chaycereed.com

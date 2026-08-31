@@ -93,18 +93,6 @@ Computational causal inference for health systems, policy, and equity.
 </details>
 
 <details>
-<summary><b>researchatlas.ai</b> &mdash; NLP and Knowledge-Graph Literature Explorer &nbsp;<code>web</code></summary>
-<br>
-
-| | |
-|---|---|
-| **Tech** | Semantic Scholar API · NLP embeddings · Force-directed graphs |
-| **Link** | [researchatlas.ai](https://researchatlas.ai) |
-| **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
-
-</details>
-
-<details>
 <summary><b>annualhealthreview.com</b> &mdash; U.S. Population Health Metrics &nbsp;<code>web</code></summary>
 <br>
 
@@ -113,6 +101,18 @@ Computational causal inference for health systems, policy, and equity.
 | **Data** | NHANES — mental, physical, and lifestyle health metrics |
 | **Link** | [annualhealthreview.com](https://annualhealthreview.com) |
 | **Stack** | `Python` `Next.js` `plotly.js` `dplyr` `haven` |
+
+</details>
+
+<details>
+<summary><b>researchatlas.ai</b> &mdash; NLP and Knowledge-Graph Literature Explorer &nbsp;<code>web</code></summary>
+<br>
+
+| | |
+|---|---|
+| **Tech** | Semantic Scholar API · NLP embeddings · Force-directed graphs |
+| **Link** | [researchatlas.ai](https://researchatlas.ai) |
+| **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
 
 </details>
 
@@ -149,8 +149,8 @@ Computational causal inference for health systems, policy, and equity.
 
 | | |
 |---|---|
-| **API** | `causalsim_dgp()` · `causalsim_draw()` · `causalsim_eval()` · `causalsim_grid()` |
-| **CRAN** | Submitted to CRAN |
+| **API** | `causalsim()` · `causalsim_dgp()` · `causalsim_draw()` · `causalsim_eval()` · `causalsim_grid()` |
+| **CRAN** | [causalsim](https://cran.r-project.org/web/packages/causalsim/index.html) |
 | **Status** | Complete |
 
 </details>

@@ -22,6 +22,8 @@ website:    chaycereed.com
 
 Computational causal inference for health systems, policy, and equity.
 
+Research, publications, and preprints: [chaycereed.com](https://chaycereed.com)
+
 **Methods**
 
 <p>
@@ -56,64 +58,61 @@ Computational causal inference for health systems, policy, and equity.
 
 <br/>
 
+
 <details>
 <summary><b>medicaid-map.com</b> &mdash; Interactive Visualization of Medicaid Expansion Effects &nbsp;<code>web</code></summary>
 <br>
-
+  
 | | |
 |---|---|
-| **Design** | DiD · ACS PUMS 2010–2023 · State-level treatment variation |
-| **Outputs** | Research poster · Interactive Next.js / D3.js website |
-| **Link** | [medicaid-map.com](https://medicaid-map.com) |
-| **Stack** | `R` `fixest` `TypeScript` `D3.js` |
-
+| **Description** | Interactive visualization of Medicaid expansion effects: DiD on ACS PUMS 2010–2023 with state-level treatment variation; accompanying research poster |
+| **Link** | https://medicaid-map.com |
+| **Stack** | `R` `fixest` `TypeScript` `D3.js` `Next.js` |
+ 
 </details>
-
 <details>
 <summary><b>causal-methods.com</b> &mdash; Code-First Reference for Causal Inference and Causal ML &nbsp;<code>web</code></summary>
 <br>
-
+  
 | | |
 |---|---|
-| **Coverage** | DiD · IV · TMLE · DML · AIPW · Synthetic Control · Causal Forests |
-| **Languages** | `R` `Python` |
-| **Link** | [causal-methods.com](https://causal-methods.com) |
-
+| **Description** | Code-first reference for causal inference and causal ML: DiD, IV, TMLE, DML, AIPW, synthetic control, and causal forests, with worked R and Python examples |
+| **Link** | https://causal-methods.com |
+| **Stack** | `R` `Python` `Next.js` |
+ 
 </details>
-
 <details>
 <summary><b>dag-studio.com</b> &mdash; Interactive DAG Construction and Analysis &nbsp;<code>web</code></summary>
 <br>
-
+  
 | | |
 |---|---|
-| **Features** | Identification analysis · Adjustment sets |
-| **Link** | [dag-studio.com](https://dag-studio.com) |
-
+| **Description** | Interactive DAG construction and analysis: build causal graphs and compute identification analysis and adjustment sets |
+| **Link** | https://dag-studio.com |
+| **Stack** | `TypeScript` `Next.js` `D3.js` |
+ 
 </details>
-
 <details>
 <summary><b>annualhealthreview.com</b> &mdash; U.S. Population Health Metrics &nbsp;<code>web</code></summary>
 <br>
-
+  
 | | |
 |---|---|
-| **Data** | NHANES — mental, physical, and lifestyle health metrics |
-| **Link** | [annualhealthreview.com](https://annualhealthreview.com) |
+| **Description** | Survey-style annual U.S. population health reports from NHANES: mental, physical, and lifestyle health metrics |
+| **Link** | https://annualhealthreview.com |
 | **Stack** | `Python` `Next.js` `plotly.js` `dplyr` `haven` |
-
+ 
 </details>
-
 <details>
 <summary><b>researchatlas.ai</b> &mdash; NLP and Knowledge-Graph Literature Explorer &nbsp;<code>web</code></summary>
 <br>
-
+  
 | | |
 |---|---|
-| **Tech** | Semantic Scholar API · NLP embeddings · Force-directed graphs |
-| **Link** | [researchatlas.ai](https://researchatlas.ai) |
+| **Description** | NLP and knowledge-graph literature explorer: maps connections across scientific literature using embeddings and force-directed graphs, via the Semantic Scholar API |
+| **Link** | https://researchatlas.ai |
 | **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
-
+ 
 </details>
 
 ---
@@ -121,14 +120,15 @@ Computational causal inference for health systems, policy, and equity.
 ### R Packages
 
 <details>
-<summary><b>wmap</b> &mdash; Transportability and Generalizability Weights &nbsp;<code>R</code></summary>
+<summary><b>wmap</b> &mdash; Multi-Study Causal Effect Estimation &nbsp;<code>R</code></summary>
 <br>
 
 | | |
 |---|---|
+| **Description** | Causal meta-analysis integrating multiple observational studies: FLEXOR balancing weights, ranger-based propensity pipeline with cross-fitting, parallel bootstrap inference |
 | **API** | `balancing_weights()` · `causal_estimate()` |
-| **CRAN** | [WMAP](https://cran.r-project.org/web/packages/WMAP/index.html) |
-| **Status** | Complete |
+| **CRAN** | https://cran.r-project.org/web/packages/WMAP/index.html |
+| **Status** | Complete · methods paper under review (R Journal) |
 
 </details>
 
@@ -138,8 +138,10 @@ Computational causal inference for health systems, policy, and equity.
 
 | | |
 |---|---|
+| **Description** | Transports causal estimates from large external cohorts to smaller target populations: ESS-maximizing reweighting, bootstrap inference |
 | **API** | `translate()` · `translate_weights()` · `translate_estimate()` |
-| **Status** | In progress |
+| **CRAN** | In Progress |
+| **Status** | Preparing for CRAN submission · accompanying methods paper in progress |
 
 </details>
 
@@ -149,8 +151,9 @@ Computational causal inference for health systems, policy, and equity.
 
 | | |
 |---|---|
+| **Description** | Simulation-ready causal data-generating processes with known ground truth for benchmarking estimator bias, variance, and coverage |
 | **API** | `causalsim()` · `causalsim_dgp()` · `causalsim_draw()` · `causalsim_eval()` · `causalsim_grid()` |
-| **CRAN** | [causalsim](https://cran.r-project.org/web/packages/causalsim/index.html) |
+| **CRAN** | https://cran.r-project.org/web/packages/causalsim/index.html |
 | **Status** | Complete |
 
 </details>
@@ -161,7 +164,9 @@ Computational causal inference for health systems, policy, and equity.
 
 | | |
 |---|---|
-| **Features** | Recoding · Missingness · Special values · Cycle consistency |
+| **Description** | Quality-control pipeline for NHANES survey data: recoding, missingness handling, special values, and cross-cycle consistency checks |
+| **API** | `nhanes_qc()` · `summary()` · `plot()` |
+| **Repo** | https://github.com/chaycereed/nhanesqc |
 | **Status** | Complete |
 
 </details>
@@ -172,7 +177,9 @@ Computational causal inference for health systems, policy, and equity.
 
 | | |
 |---|---|
-| **Features** | 10 palettes · `scale_color_lotr()` · `scale_fill_lotr()` |
+| **Description** | 10 Lord of the Rings-themed color palettes for ggplot2 |
+| **API** | `scale_color_lotr()` · `scale_fill_lotr_c()` · `scale_fill_lotr_d()` · `lotr_palette()` |
+| **Repo** | https://github.com/chaycereed/lotr |
 | **Status** | Complete |
 
 </details>
@@ -187,8 +194,10 @@ Computational causal inference for health systems, policy, and equity.
 
 | | |
 |---|---|
-| **Purpose** | Standardized templates and automation for reproducible analysis projects |
-| **Stack** | `Python` |
+| **Description** | Standardized templates and automation for reproducible analysis projects: consistent folder structure, notebooks, and READMEs |
+| **API** | `researchkit`|
+| **Repo** | https://github.com/chaycereed/researchkit |
+| **Status** | Complete |
 
 </details>
 
@@ -198,7 +207,9 @@ Computational causal inference for health systems, policy, and equity.
 
 | | |
 |---|---|
-| **Purpose** | Automated retrieval, metadata extraction, structured reports via Semantic Scholar |
-| **Stack** | `Python` |
+| **Description** | Automated retrieval, metadata extraction, and structured literature-scan reports via the Semantic Scholar API |
+| **API** | `metascholar` |
+| **Repo** | https://github.com/chaycereed/metascholar |
+| **Status** | Complete |
 
 </details>

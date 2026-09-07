@@ -22,8 +22,6 @@ website:    chaycereed.com
 
 Computational causal inference for health systems, policy, and equity.
 
-Research, publications, and preprints: [chaycereed.com](https://chaycereed.com)
-
 **Methods**
 
 <p>
@@ -213,3 +211,11 @@ Research, publications, and preprints: [chaycereed.com](https://chaycereed.com)
 | **Status** | Complete |
 
 </details>
+
+---
+
+<p align="center">
+  <a href="https://chaycereed.com"><img src="https://img.shields.io/badge/chaycereed.com-21262d?style=flat-square&logo=googlechrome&logoColor=6e7681" alt="website"/></a>
+  <a href="https://github.com/chaycereed"><img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=6e7681" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/chaycereed"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=6e7681" alt="LinkedIn"/></a>
+</p>

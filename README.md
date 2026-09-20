@@ -20,7 +20,7 @@ website:    chaycereed.com
 
 ### Research
 
-Computational causal inference for health systems, policy, and equity.
+Computational causal inference for health services, policy, and equity research.
 
 **Methods**
 

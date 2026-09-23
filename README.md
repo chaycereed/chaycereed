@@ -49,7 +49,7 @@ Computational causal inference for health services, policy, and equity research.
 
 | | | |
 |:---:|:---:|:---:|
-| [![medicaid-map.com](medicaid-map.png)](https://medicaid-map.com) | [![causal-workbench](causal-methods.png)](https://causal-methods.com) | [![researchatlas.ai](research-atlas.png)](https://researchatlas.ai) |
+| [![medicaid-map.com](medicaid-map.png)](https://medicaid-map.com) | [![causal-workbench](causal-methods.png)](https://causal-methods.com) | [![researchatlas.ai](research-atlas.png)](https://causal-scholar.com) |
 | [![annualhealthreview.com](annual-health-review.png)](https://annualhealthreview.com) | [![dag-studio](dag-studio.png)](https://dag-studio.com) | |
 
 </div>
@@ -79,6 +79,19 @@ Computational causal inference for health services, policy, and equity research.
 | **Stack** | `R` `Python` `Next.js` |
  
 </details>
+
+<details>
+<summary><b>causal-scholar.com</b> &mdash; Causal-Inference Literature Map for Health Services &amp; Policy Research &nbsp;<code>web</code></summary>
+<br>
+
+| | |
+|---|---|
+| **Description** | Interactive knowledge-graph map of health services and policy research that organizes the literature by how each paper identifies causal effects, tagging identification strategies, policy levers, and outcomes from Semantic Scholar data. |
+| **Link** | https://causal-scholar.com |
+| **Stack** | `Python` `FastAPI` `YAKE` `Next.js` `TypeScript` `Tailwind` `react-force-graph` `Semantic Scholar API` |
+
+</details>
+
 <details>
 <summary><b>dag-studio.com</b> &mdash; Interactive DAG Construction and Analysis &nbsp;<code>web</code></summary>
 <br>
@@ -99,17 +112,6 @@ Computational causal inference for health services, policy, and equity research.
 | **Description** | Survey-style annual U.S. population health reports from NHANES: mental, physical, and lifestyle health metrics |
 | **Link** | https://annualhealthreview.com |
 | **Stack** | `Python` `Next.js` `plotly.js` `dplyr` `haven` |
- 
-</details>
-<details>
-<summary><b>researchatlas.ai</b> &mdash; NLP and Knowledge-Graph Literature Explorer &nbsp;<code>web</code></summary>
-<br>
-  
-| | |
-|---|---|
-| **Description** | NLP and knowledge-graph literature explorer: maps connections across scientific literature using embeddings and force-directed graphs, via the Semantic Scholar API |
-| **Link** | https://researchatlas.ai |
-| **Stack** | `Python` `FastAPI` `Next.js` `react-force-graph` |
  
 </details>
 

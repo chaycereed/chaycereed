@@ -47,10 +47,11 @@ Computational causal inference for health services, policy, and equity research.
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| [![medicaid-map.com](medicaid-map.png)](https://medicaid-map.com) | [![causal-workbench](causal-methods.png)](https://causal-methods.com) | [![researchatlas.ai](research-atlas.png)](https://causal-scholar.com) |
-| [![annualhealthreview.com](annual-health-review.png)](https://annualhealthreview.com) | [![dag-studio](dag-studio.png)](https://dag-studio.com) | |
+| | |
+|:---:|:---:|
+| [![medicaid-map.com](medicaid-map.png)](https://medicaid-map.com) | [![causal-workbench](causal-methods.png)](https://causal-methods.com) |
+| [![researchatlas.ai](research-atlas.png)](https://causal-scholar.com) | [![annualhealthreview.com](annual-health-review.png)](https://annualhealthreview.com) |
+| [![dag-studio](dag-studio.png)](https://dag-studio.com) | |
 
 </div>
 

@@ -38,6 +38,7 @@ Computational causal inference for health services, policy, and equity research.
 <p>
   <img src="https://img.shields.io/badge/R-21262d?style=flat-square&logo=r&logoColor=6e7681"/>
   <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=6e7681"/>
+  <img src="https://img.shields.io/badge/SAS-21262d?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzZlNzY4MSIgZD0iTTMgM2gydjE2aDE2djJIM3ptNCAxMGgzdjVIN3ptNS00aDN2OWgtM3ptNS01aDN2MTRoLTN6Ii8+PC9zdmc+Cg%3D%3D"/>
   <img src="https://img.shields.io/badge/SQL-21262d?style=flat-square&logo=postgresql&logoColor=6e7681"/>
 </p>
 

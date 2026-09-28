@@ -83,7 +83,7 @@ Computational causal inference for health services, policy, and equity research.
 </details>
 
 <details>
-<summary><b>causal-scholar.com</b> &mdash; Causal-Inference Literature Map for Health Services &amp; Policy Research &nbsp;<code>web</code></summary>
+<summary><b>causal-scholar.com</b> &mdash; Causal Inference Literature Map for Health Services &amp; Policy Research &nbsp;<code>web</code></summary>
 <br>
 
 | | |

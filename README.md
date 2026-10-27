@@ -18,19 +18,22 @@ website:    chaycereed.com
 
 ---
 
-### Research
+**Research**
 
-Computational causal inference for health services, policy, and equity research.
+My research centers on computational causal inference for health services, policy, and equity, across two key areas:
+
+> 1. How health policy and delivery systems shape access to care for low-income and underserved populations.
+> 2. How automated decision-making in healthcare produces and entrenches disparities.
 
 **Methods**
 
 <p>
   <img src="https://img.shields.io/badge/Difference--in--Differences-21262d?style=flat-square&color=21262d"/>
   <img src="https://img.shields.io/badge/Interrupted_Time_Series-21262d?style=flat-square&color=21262d"/>
-  <img src="https://img.shields.io/badge/Transportability-21262d?style=flat-square&color=21262d"/>
   <img src="https://img.shields.io/badge/AIPW_%2F_DML-21262d?style=flat-square&color=21262d"/>
-  <img src="https://img.shields.io/badge/IV_%2F_RDD-21262d?style=flat-square&color=21262d"/>
   <img src="https://img.shields.io/badge/Causal_Forests-21262d?style=flat-square&color=21262d"/>
+  <img src="https://img.shields.io/badge/Transportability_%2F_Transfer_Learning-21262d?style=flat-square&color=21262d"/>
+  <img src="https://img.shields.io/badge/Counterfactual_Simulation-21262d?style=flat-square&color=21262d"/>
 </p>
 
 **Stack**

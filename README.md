@@ -55,7 +55,7 @@ My research centers on computational causal inference for health services, polic
 |:---:|:---:|
 | [![medicaid-map.com](medicaid-map.png)](https://medicaid-map.com) | [![causal-workbench](causal-methods.png)](https://causal-methods.com) |
 | [![causal-scholar.com](research-atlas.png)](https://causal-scholar.com) | [![dag-studio](dag-studio.png)](https://dag-studio.com) |
-| [![annualhealthreview.com](annual-health-review.png)](https://annualhealthreview.com) 
+| [![annualhealthreview.com](annual-health-review.png)](https://annualhealthreview.com) | [![ohie-medicaid-policy-simulation](ohie-mps.png)](https://github.com/chaycereed/ohie-medicaid-policy-simulation) |
 
 </div>
 

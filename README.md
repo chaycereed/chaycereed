@@ -20,8 +20,7 @@ website:    chaycereed.com
 
 **Research**
 
-My research centers on computational causal inference for health services, policy, and equity, across two key areas:
-
+> My research centers on computational causal inference for health services, policy, and equity, across two key areas:
 > 1. How health policy and delivery systems shape access to care for low-income and underserved populations.
 > 2. How automated decision-making in healthcare produces and entrenches disparities.
 
@@ -164,16 +163,15 @@ My research centers on computational causal inference for health services, polic
 </details>
 
 <details>
-<summary><b>nhanesqc</b> &mdash; NHANES Preprocessing Pipeline &nbsp;<code>R</code></summary>
+<summary><b>statquiz</b> &mdash; Interactive Statistics Practice in R &nbsp;<code>R</code></summary>
 <br>
 
 | | |
 |---|---|
-| **Description** | Quality-control pipeline for NHANES survey data: recoding, missingness handling, special values, and cross-cycle consistency checks |
-| **API** | `nhanes_qc()` · `summary()` · `plot()` |
-| **Repo** | https://github.com/chaycereed/nhanesqc |
+| **Description** | Randomized statistics practice questions solved with standard R functions, with hints, worked solutions, and scored quiz mode |
+| **API** | `question()` · `check_answer()` · `hint()` · `explain()` · `quiz()` · `score()` · `topics()` |
+| **Repo** | https://github.com/chaycereed/statquiz |
 | **Status** | Complete |
-
 </details>
 
 <details>
@@ -182,7 +180,7 @@ My research centers on computational causal inference for health services, polic
 
 | | |
 |---|---|
-| **Description** | 10 Lord of the Rings-themed color palettes for ggplot2 |
+| **Description** | Lord of the Rings-themed color palettes for ggplot2 |
 | **API** | `scale_color_lotr()` · `scale_fill_lotr_c()` · `scale_fill_lotr_d()` · `lotr_palette()` |
 | **Repo** | https://github.com/chaycereed/lotr |
 | **Status** | Complete |

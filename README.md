@@ -20,7 +20,7 @@ website:    chaycereed.com
 
 **Research**
 
-My research centers on computational causal inference for health services, policy, and equity, across two key areas: (1) how health policy and delivery systems shape access to care for low-income and underserved populations, and (2) how algorithmic decision-making in healthcare produces and entrenches disparities.
+My research centers on computational causal inference for health services, policy, and equity, across two key areas: (1) how health policy and delivery systems shape access and outcomes for low-income and underserved populations, and (2) how algorithmic decision-making in healthcare produces and entrenches disparities.
 
 **Methods**
 

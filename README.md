@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2500&pause=99999&color=3D444D&background=0D111700&center=true&vCenter=true&width=700&height=24&lines=MS+HEALTH+DATA+SCIENCE+-+DARTMOUTH+COLLEGE+%C2%B7+GRA++-+COMPUTATIONAL+CAUSAL+INFERENCE" alt="role"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=2500&pause=99999&color=3D444D&background=0D111700&center=true&vCenter=true&width=700&height=24&lines=MS+HEALTH+DATA+SCIENCE+%C2%B7+DARTMOUTH+COLLEGE+|+GRADUATE+RESEARCH+ASSISTANT++%C2%B7+COMPUTATIONAL+CAUSAL+INFERENCE" alt="role"/>
 </p>
 
 ```yaml

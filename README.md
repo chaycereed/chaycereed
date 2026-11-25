@@ -122,28 +122,28 @@ My research centers on computational causal inference for health services, polic
 ### R Packages
 
 <details>
-<summary><b>wmap</b> &mdash; Multi-Study Causal Effect Estimation &nbsp;<code>R</code></summary>
+<summary><b>wmap</b> &mdash; Causal Inference Across Multiple Studies &nbsp;<code>R</code></summary>
 <br>
 
 | | |
 |---|---|
-| **Description** | Causal meta-analysis integrating multiple observational studies: FLEXOR balancing weights, ranger-based propensity pipeline with cross-fitting, parallel bootstrap inference |
+| **Description** | Causal inference across multiple heterogeneous observational studies: FLEXOR balancing weights, ranger-based propensity pipeline with cross-fitting, parallel bootstrap inference |
 | **API** | `balancing_weights()` · `causal_estimate()` |
 | **CRAN** | https://cran.r-project.org/web/packages/WMAP/index.html |
-| **Status** | Complete · methods paper under review (R Journal) |
+| **Status** | Complete · accompanying paper accepted at The R Journal |
 
 </details>
 
 <details>
-<summary><b>translate</b> &mdash; Causal Transport Across Populations &nbsp;<code>R</code></summary>
+<summary><b>translateweights</b> &mdash; Transfer Learning Across Populations &nbsp;<code>R</code></summary>
 <br>
 
 | | |
 |---|---|
-| **Description** | Transports causal estimates from large external cohorts to smaller target populations: ESS-maximizing reweighting, bootstrap inference |
+| **Description** | Transfer learning that borrows information from large external cohorts to improve causal estimation for smaller target populations: ESS-maximizing reweighting, bootstrap inference |
 | **API** | `translate()` · `translate_weights()` · `translate_estimate()` |
 | **CRAN** | In Progress |
-| **Status** | Preparing for CRAN submission · accompanying methods paper in progress |
+| **Status** | Preparing for CRAN submission · accompanying paper in progress |
 
 </details>
 
